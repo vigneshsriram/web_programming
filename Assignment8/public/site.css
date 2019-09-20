@@ -1,0 +1,91 @@
+
+.success{
+    color: #28a745;
+    border: 1px solid;
+}
+
+.failure{
+    color: #dc3545;
+    border: 1px solid;
+}
+
+.neutral{
+    color: gray;
+    border: 1px solid;
+}
+
+.header {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    text-align: center;
+     
+}
+
+.container{
+    padding: 15%;
+    font-family: monospace;
+    text-align: center;
+    margin: auto;
+    border: 3px solid;
+    background-color:black;
+    color:lime;
+    overflow: hidden;
+
+}
+
+.para1 {
+    opacity: 0.9;
+    filter: alpha(opacity=50); 
+}
+
+.para2 {
+    text-shadow: 2px 2px 5px limegreen;
+}
+
+.para3 {
+    position: relative;
+    -webkit-animation: mymove 10s infinite; /* Safari 4.0 - 8.0 */
+    animation: mymove 10s infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {right: 80px;}
+}
+
+@keyframes mymove {
+    from {left: 0px;}
+    to {right: 80px;}
+}
+
+.para4 {
+        white-space: nowrap; 
+        width: 24%; 
+        overflow: hidden; 
+        border: 1px solid #000000;
+        margin-left: 28%;
+    }
+    
+    .para4:hover {
+        text-overflow: inherit;
+        overflow: visible;
+    }
+
+
+    .down {
+        font-weight: bold;
+        padding-top: 5%;
+    }
+
+
+    #submitButton, #palindrome, #try{
+        color: lime;
+        background-color: black;
+    }
+
+    html {
+       
+    }
