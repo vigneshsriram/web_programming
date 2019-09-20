@@ -1,0 +1,18 @@
+
+
+let exportedMethods = {
+    getStory(){
+        var a = {
+            "storyTitle": "Journey to Uranus",
+            "story": "This story is a purely a work of fiction and crafted by my small but very intelligent brain. Any resemblance to anyone(including aliens) living or dead is just a coincidence.\
+             It was a mission which was never attempted by anyone. The quest to find life beyond earth and NASA had chosen me to spearhead this mission. Along with me, there were a 3 others who were chosen for the same mission. The first one was Black Widow- the Russian beauty also known as Scarlett Johnsons Scarlett was one of the smartest women I had ever met and she was beautiful too. I was glad she was going to accompany me on this mission. (come on! which guy doesn't like a beautiful face). The next one was Micheal Jackson who was not smart nor beautiful but he did know how to walk in space well at least he knew how to walk on the moon and that was good enough for NASA to select him. And the last one was Mrunmayee Salunkhe. I still don't know how she got in here as if getting in RBC and dining wasn't enough for her \
+            It was the day of our departure. Everyone\'s family and friends had come to see them off. Hulk was waving goodbye to Scarlett Johnson, Mrunmayee was waving to Omkar and Sharan. That\'s when she realized that Anooj was present there. So she tried calling him to ask him where he was but he didn\'t pick up his phone. Little did she know Anooj was interviewing for her place at the dining. Micheal Jackson was sobbing like a baby so I tried to console.log him but ...oh wait too much of JavaScript I meant I tried to console him saying its okay we will be back in some 20-30 years. To which he replied that he wasn\'t sad because of that it was his fairness cream which he had left behind\
+            We hear a sound \"take off in 10..9...\" engines start and boom we had left the earth. We left the earth stratosphere, then atmosphere, then troposphere then another sphere I don't know why they made so many confusing names. Anyways, now there was no turning back. The earth kept getting smaller and smaller as we traveled at the speed of sound. We wrapped ourselves in our sleeping capsules and went into hibernation. 6 months later We reached Mars. The red planet was beautiful, it was small but elegant. Then after a couple of years jupyter notebook Oopps. Too much python. I mean Jupiter. The planet was huge! Super Huge. It had so many moons orbiting it. I lost count after 16. The next planet which we saw was Saturn. The photographs don\'t do justification to its beauty. Uranus was going to be the next planet but then we realized that our rocket was being followed by a spaceship.\
+            We knew this was going to be trouble. We tried to contact them via radio waves saying that we weren't a threat to them but were not ready to listen. They made our ship to land on Titan. We saw the aliens come down from their spaceship. They were blue in color wearing yellow hoodies. Scarlet and MJ thought that they were Avatar but no they were same aliens from koi mil gaya and that\'s when we spotted Jadoo. We called Rohit Mehra and he explained our condition to Jadoo. Jadoo asked us why are you going to Uranus when you knew in 2003 itself that Aliens like me exists.This makes no sense. To which I replied that the main reason to choose Uranus is that it makes a great a story for this Assignment."
+          }
+          
+          return a;
+    }
+}
+
+module.exports = exportedMethods;
