@@ -1,0 +1,33 @@
+.btn-primary {
+	border-radius: 2px;
+	background-color: #39ADB4;
+	border: none;	
+	color: white;	
+}
+
+.btn-primary:hover { background-color: #2A858B; }
+
+.inputbox{
+    width: 50%;
+    padding: 7px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+    display: block;
+    
+}
+
+
+html{
+    background: cornsilk;
+}
+
+h1{
+    color: darkgoldenrod;
+}
+
+.err{
+    color: darkgoldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
