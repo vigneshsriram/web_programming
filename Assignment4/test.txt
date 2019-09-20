@@ -1,0 +1,10 @@
+mongoconnections makes connection
+
+collection:
+saves only the collection
+no database but connected using mongo it makes the database automatically
+
+imp:
+organise datarelated tasks
+check repository pattern
+
